@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="70" height="70" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
- <tileset firstgid="1" source="../New_Layout/Walls_new2.tsx"/>
- <tileset firstgid="257" source="../New_Layout/rc3-mullana-restroom-party.tsx"/>
- <tileset firstgid="357" source="../Workadventure_Mosaik/cija_32x32_expansion for Pipoya_CC0.tsx"/>
- <tileset firstgid="2352" source="../Workadventure_Mosaik/general.tsx"/>
- <tileset firstgid="2608" source="../New_Layout/flowers-and-pots-by-ayene-chan.tsx"/>
- <tileset firstgid="2725" source="../New_Layout/Walls.tsx"/>
- <tileset firstgid="2981" source="../New_Layout/Tileset_Boden.tsx"/>
- <tileset firstgid="2997" source="../Eigene Tilesets/new_Pokemon.tsx"/>
- <tileset firstgid="8205" source="../Workadventure_Mosaik/tilesets_deviant_milkian_1.tsx"/>
- <tileset firstgid="8461" source="../Workadventure_Mosaik/Pokemon.tsx"/>
- <tileset firstgid="13669" source="rmmv_furniture___rtp_edits_by_starbirdresources_dboquop-fullview.tsx"/>
- <tileset firstgid="14245" source="tree_and_monument_tiles___rmmv_rtp_edits_by_starbirdresources_dbr691t-fullview.tsx"/>
- <tileset firstgid="14821" source="rpg_maker_mz_rtp_edits___first_batch_by_starbirdresources_de8u0m7-fullview.tsx"/>
- <tileset firstgid="15397" source="starbird_rpg_maker_mz_rtp_edits___third_batch_by_starbirdresources_de90m50-fullview.tsx"/>
- <tileset firstgid="15973" source="leipzig_fair_set.tsx"/>
- <tileset firstgid="16037" source="../New_Layout/09_workstations.tsx"/>
+ <tileset firstgid="1" source="tiles/Walls_new2.tsx"/>
+ <tileset firstgid="257" source="tiles/rc3-mullana-restroom-party.tsx"/>
+ <tileset firstgid="357" source="tiles/cija_32x32_expansion for Pipoya_CC0.tsx"/>
+ <tileset firstgid="2352" source="tiles/general.tsx"/>
+ <tileset firstgid="2608" source="tiles/flowers-and-pots-by-ayene-chan.tsx"/>
+ <tileset firstgid="2725" source="tiles/Walls.tsx"/>
+ <tileset firstgid="2981" source="tiles/Tileset_Boden.tsx"/>
+ <tileset firstgid="2997" source="tiles/new_Pokemon.tsx"/>
+ <tileset firstgid="8205" source="tiles/tilesets_deviant_milkian_1.tsx"/>
+ <tileset firstgid="8461" source="tiles/Pokemon.tsx"/>
+ <tileset firstgid="13669" source="tiles/rmmv_furniture___rtp_edits_by_starbirdresources_dboquop-fullview.tsx"/>
+ <tileset firstgid="14245" source="tiles/tree_and_monument_tiles___rmmv_rtp_edits_by_starbirdresources_dbr691t-fullview.tsx"/>
+ <tileset firstgid="14821" source="tiles/rpg_maker_mz_rtp_edits___first_batch_by_starbirdresources_de8u0m7-fullview.tsx"/>
+ <tileset firstgid="15397" source="tiles/starbird_rpg_maker_mz_rtp_edits___third_batch_by_starbirdresources_de90m50-fullview.tsx"/>
+ <tileset firstgid="15973" source="tiles/leipzig_fair_set.tsx"/>
+ <tileset firstgid="16037" source="tiles/09_workstations.tsx"/>
  <layer id="11" name="start" width="70" height="70">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
