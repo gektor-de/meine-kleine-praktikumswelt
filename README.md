@@ -6,6 +6,12 @@ Run: https://play.staging.workadventu.re/_/global/raw.githubusercontent.com/gekt
 
 ## Repository Mirror to GitHub
 
-SSH `git push --mirror git@github.com:gektor-de/meine-kleine-praktikumswelt.git`
+https://github.com/gektor-de/meine-kleine-praktikumswelt
 
-HTTPS `git push --mirror https://github.com/gektor-de/meine-kleine-praktikumswelt`
+SSH
+
+`git push --mirror git@github.com:gektor-de/meine-kleine-praktikumswelt.git`
+
+HTTPS
+
+`git push --mirror https://github.com/gektor-de/meine-kleine-praktikumswelt`
