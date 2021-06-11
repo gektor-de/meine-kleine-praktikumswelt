@@ -1146,7 +1146,7 @@
  </layer>
  <layer id="14" name="websiteMahara" width="70" height="70">
   <properties>
-   <property name="openWebsite" value="https://mahara.uni-koblenz.de/"/>
+   <property name="openWebsite" value="https://praktikumsbuch.ko-ld.de/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
