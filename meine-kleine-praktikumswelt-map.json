@@ -176,7 +176,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.mahara.uni-koblenz.de"
+                 "value":"https:\/\/mahara.uni-koblenz.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
