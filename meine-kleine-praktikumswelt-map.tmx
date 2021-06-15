@@ -1092,7 +1092,7 @@
  </layer>
  <layer id="24" name="websiteBBB" width="90" height="70">
   <properties>
-   <property name="openWebsite" value="https://bbb.rlp.net/b/nis-8dj-jtg-ymh"/>
+   <property name="openWebsite" value="https://meet.westwoodlabs.de/b/demo"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
