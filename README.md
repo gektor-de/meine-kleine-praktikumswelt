@@ -4,6 +4,20 @@
 
 Run: https://play.staging.workadventu.re/_/global/raw.githubusercontent.com/gektor-de/meine-kleine-praktikumswelt/main/meine-kleine-praktikumswelt-map.json
 
+## Local test
+
+### Run once
+
+`npm intall`
+
+### Run to start local server
+
+`npm run start`
+
+### Stop server
+
+press `CRTL+C`
+
 ## Repository Mirror to GitHub
 
 https://github.com/gektor-de/meine-kleine-praktikumswelt
