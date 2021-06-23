@@ -8,7 +8,9 @@ Run: https://play.staging.workadventu.re/_/global/raw.githubusercontent.com/gekt
 
 ### Run once
 
-`npm intall`
+`npm ci`
+
+(use `npm intall` to update package.lock)
 
 ### Run to start local server
 
