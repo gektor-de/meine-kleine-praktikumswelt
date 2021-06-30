@@ -1323,7 +1323,7 @@
  </layer>
  <layer id="29" name="websitePowerline_io" width="90" height="70">
   <properties>
-   <property name="openWebsite" value="http://powerline.io/"/>
+   <property name="openWebsite" value="https://powerline.io/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
