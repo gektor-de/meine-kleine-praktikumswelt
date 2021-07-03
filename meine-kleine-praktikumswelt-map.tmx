@@ -556,7 +556,7 @@
  </layer>
  <layer id="19" name="webseiteINFOPOINT" width="90" height="70">
   <properties>
-   <property name="openWebsite" value="https://gektor-de.github.io/meine-kleine-praktikumswelt/html/Unterrichtsplanung_Mahara.html"/>
+   <property name="openWebsite" value="https://gektor-de.github.io/meine-kleine-praktikumswelt/html/Lageplan.html"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

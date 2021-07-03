@@ -128,7 +128,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/gektor-de.github.io\/meine-kleine-praktikumswelt\/html\/Unterrichtsplanung_Mahara.html"
+                 "value":"https:\/\/gektor-de.github.io\/meine-kleine-praktikumswelt\/html\/Lageplan.html"
                 }],
          "type":"tilelayer",
          "visible":true,
