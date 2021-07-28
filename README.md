@@ -2,7 +2,9 @@
 
 ## WorkAdventure-Karte
 
-Run: https://play.staging.workadventu.re/_/global/raw.githubusercontent.com/gektor-de/meine-kleine-praktikumswelt/main/meine-kleine-praktikumswelt-map.json
+Run Uniko (login using Uni LDAP username): https://play.workadventure.ko-ld.de/
+
+Run WorkAdventure Cloud: https://play.staging.workadventu.re/_/global/raw.githubusercontent.com/gektor-de/meine-kleine-praktikumswelt/main/meine-kleine-praktikumswelt-map.json
 
 ## Local test
 
